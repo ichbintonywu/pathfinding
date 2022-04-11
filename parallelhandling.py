@@ -8,7 +8,7 @@ import multiprocessing as mp
 # configuration part
 constr = "bolt://172.16.142.6:7687"
 username = "neo4j"
-password = "Ne04j!"
+password = "password"
 dbname = "shortestpath"
 
 # use one session for all threads
